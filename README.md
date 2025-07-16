@@ -1,7 +1,7 @@
-# 👋 Hi, ich bin Mitko
+# 👋 Hi, I am Mitko
 
 🎓 Masterstudent in Computer Engineering @ TU Berlin  
-🧠 Interessiert an Machine Learning & Computer Vision  
+🧠 Interested in Machine Learning, Data Science and Computer Vision.   
 📷 Aktuell: Projekte mit Autoencodern & Bildverarbeitung  
 🔧 Tools: Python, TensorFlow, Keras, OpenCV  
 🌱 Auf der Suche nach Werkstudentenstellen & Thesis-Möglichkeiten
