@@ -6,14 +6,13 @@ I'm a Computer Engineering **M.Sc. student at TU Berlin** with a strong interest
 
 ## 💡 About Me
 
-In a world where AI is becoming ubiquitous and raises many questions about its role in society and its interaction with individuals, I'm particularly fascinated by the ways **AI can be used to help people**.
+I specialize in AI, computer vision, and image processing, with a focus on how artificial intelligence can enhance healthcare through more accurate diagnostics, innovative solutions, and improved treatments. My background spans research, innovation management, and software development, enabling me to work across the entire lifecycle of intelligent healthcare technologies.
+What excites me most is the intersection of medicine and AI — where technology can directly improve lives while bringing together two of my favorite domains:
 
-One area that excites me most is **medicine** – because it allows AI to be used for **good**, while combining two of my favorite domains:
+📷 Image Processing
+🤖 Machine learning algorithms 
 
-- 📷 Image understanding
-- 🤖 Machine learning algorithms
-
-I'm highly motivated to contribute to **AI-driven solutions** that support medical diagnosis, imaging, and treatment – and always eager to learn and grow in this field.
+I’m driven to develop AI-powered solutions that support medical diagnosis, imaging, and treatment — and I’m constantly learning, experimenting, and building to push these ideas forward.
 
 ---
 
@@ -44,7 +43,8 @@ Here are some of the libraries and tools I've worked with:
 
 ## 📬 Get in Touch
 
-- 📧 dimitko@valtchev.net *(oder LinkedIn, wenn du willst)*
+- 📧 dimitko@valtchev.net
+- 💼 LinkedIn: https://www.linkedin.com/in/dimitar-mitko-valtchev/
 - 📍 Based in Berlin, Germany
 - 💬 Always open to collaboration, learning, and meaningful conversations
 
