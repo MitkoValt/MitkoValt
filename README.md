@@ -21,5 +21,5 @@ I’m passionate about combining AI and healthcare to create solutions that impr
 
 📫 Connect with me
 LinkedIn: www.linkedin.com/in/dimitar-valtchev
-GitHub: github.com/MitkoValt
+GitHub: www.github.com/MitkoValt
 
