@@ -44,7 +44,7 @@ Here are some of the libraries and tools I've worked with:
 ## 📬 Get in Touch
 
 - 📧 dimitko@valtchev.net
-- 💼 LinkedIn: https://www.linkedin.com/in/dimitar-mitko-valtchev/
+- 💼 LinkedIn: https://www.linkedin.com/in/dimitar-valtchev/
 - 📍 Based in Berlin, Germany
 - 💬 Always open to collaboration, learning, and meaningful conversations
 
