@@ -1,6 +1,7 @@
 👋 Hi, I’m Dimitar (Mitko) Valtchev
 
 🎓 M.Sc. Computer Engineering @ TU Berlin | Specialization in Machine Learning
+🎓 B.Sc. Electrical Engineering @ RWTH Aachen | Focus on Technical Computer Science
 
 💡 Focus Areas
 
