@@ -14,7 +14,7 @@
 - Research on deep learning for medical image analysis
 - Projects on neural networks, speech recognition & signal processing
 - Innovation management in healthcare startups
-- 
+  
 🌍 What drives me
 I’m passionate about combining AI and healthcare to create solutions that improve diagnostics and patient outcomes, while also exploring how advanced analytics and machine learning can transform industry and technology more broadly.
 
