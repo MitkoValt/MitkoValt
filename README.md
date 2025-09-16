@@ -7,11 +7,11 @@
 
 - AI & Machine Learning (TensorFlow, PyTorch, Scikit-learn)
 - Computer Vision & Image Processing (OpenCV, NumPy, Pandas)
-- Innovation projects in healthcare & medical imaging
+- Innovation in healthcare & medical imaging
   
 🚀 What I’m working on
 
-- Research on deep learning for medical image analysis
+- Research on deep learning and computer vision for medical image analysis
 - Projects on neural networks, speech recognition & signal processing
 - Innovation management in healthcare startups
   
